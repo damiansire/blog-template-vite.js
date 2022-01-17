@@ -25,3 +25,5 @@ Debo investigar:
 https://www.npmjs.com/package/@mdx-js/rollup
 
 https://mdxjs.com/
+
+Tambien, probate el playground de https://mdxjs.com/playground/
