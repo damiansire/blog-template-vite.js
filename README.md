@@ -8,8 +8,20 @@ El markdown debe de ser convertido a  (Javascript -> ) HTML ¿Que uso para hacer
 
 Encontre estas dos posibilidades, voy a analizarlas:
 
-https://github.com/brillout/vite-plugin-mdx
+vite-plugin-mdx -> https://github.com/brillout/vite-plugin-mdx
 
-https://github.com/alloc/vite-remark-html
+vite-remark-html -> https://github.com/alloc/vite-remark-html
 
 ¿Como funcionan exactamente?
+
+En el repositorio de vite-plugin-mdx, me encuentro que dice que debe de usarse si usamos MDX v1 en nuestra Vite app
+
+En caso que usemos MDX v2 debemos de usar @mdx-js/rollup.
+
+No tengo en claro cual de los dos voy a usar, ni cuales son las diferencias. Segun entiendo, es mardown pero mas especial. 
+
+Debo investigar:
+
+https://www.npmjs.com/package/@mdx-js/rollup
+
+https://mdxjs.com/
